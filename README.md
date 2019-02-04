@@ -4,7 +4,7 @@ ReddTweet was a small initiative to originally, post trending dog pictures on Re
 
 ## Installing ReddTweet
 
-Download / clone the repo to your local machine (or a hosted cloud machine such as AWS). Edit the following files with your API credentials which you should apply for using the following links.
+Download / clone the repo to your local machine (or a hosted cloud machine such as AWS). Obtain your API credentials which you should apply for using the following links.
 
 Reddit [API](https://www.reddit.com/wiki/api) can be used or alternatively use the snoowrapper [OAuth Helper](https://github.com/not-an-aardvark/reddit-oauth-helper) to generate tokens.
 Twitter [Developer](https://developer.twitter.com/en/apps) is also required as they provide you with tokens to post to an account.
