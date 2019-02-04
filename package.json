@@ -1,0 +1,23 @@
+{
+  "name": "woofbot",
+  "version": "1.0.0",
+  "description": "A twitter bot that posts woofs",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "woof"
+  ],
+  "author": "scomitch",
+  "license": "ISC",
+  "dependencies": {
+    "image-downloader": "^3.4.2",
+    "line-by-line": "^0.1.6",
+    "snoowrap": "^1.15.2",
+    "twit": "^2.2.11"
+  }
+}
